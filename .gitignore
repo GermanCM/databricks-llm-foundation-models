@@ -3,3 +3,5 @@ LLM 01 - Transformer Architecture/.vector_cache/glove.6B.200d.txt
 LLM 01 - Transformer Architecture/.vector_cache/glove.6B.300d.txt
 LLM 01 - Transformer Architecture/.vector_cache/glove.6B.300d.txt.pt
 LLM 01 - Transformer Architecture/.vector_cache/glove.6B.zip
+.vscode/settings.json
+__pycache__/test_llms_utils.cpython-39-pytest-7.4.0.pyc
